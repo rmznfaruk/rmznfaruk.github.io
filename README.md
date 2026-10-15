@@ -1,1 +1,1 @@
-# rmznfaruk.githup.io
+# rmznfaruk.github.io
