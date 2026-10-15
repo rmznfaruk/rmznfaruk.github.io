@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About Me
+title: About me
 permalink: /about/
 ---
 
-Hi! I'm Ramazan Faruk Acıöz, a third-year computer engineering student at Necmettin Erbakan University. I am passionate about software development, autonomous systems, and computer vision.
+Hi, I am Ramazan. I am a computer engineering student at Necmettin Erbakan University.
+I like building software projects and working with drones.
+I am learning English to read documentation and write professional e-mails.
