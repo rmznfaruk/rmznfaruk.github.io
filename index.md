@@ -4,7 +4,7 @@ layout: home
 
 > **Computer Engineering student · AI enthusiast · from Kırşehir**
 >
-> Welcome to my personal site! Here you can read about me, my class presentation and how this site will grow during the course.
+> Welcome to my personal site! Here you can read about me and my class presentation.
 
 ## About me
 
@@ -32,15 +32,6 @@ In my presentation, I will explain:
 4. Why this technology matters for all of us.
 
 [Go to my presentation page]({{ '/presentation/' | relative_url }}) to see my slides and sources.
-
-## How this site will grow
-
-| When | What I will add |
-|---|---|
-| Week 3 | Site online with a Jekyll theme and an About me section |
-| Week 5 | A page for my presentation topic |
-| Week 8 | A blog post |
-| Week 12 | Final site and site tour |
 
 ## Contact
 
