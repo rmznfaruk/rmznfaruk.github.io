@@ -6,15 +6,18 @@ permalink: /presentation/
 
 ## Topic
 
-**TOPIC TITLE HERE**: one or two sentences about why you chose it.
+My presentation is about **how deepfakes work**. I chose this topic because it shows how modern AI can create fake faces, voices and videos that look real. I want to explain, in simple and clear English, how the technology works, why it matters, and how people can detect it.
 
 ## Slides
 
-Slides coming soon. I will upload the PDF one day before my presentation.
+My slides will be available here as a PDF one day before my presentation.
 
+<!-- PDF yüklenince yukarıdaki cümleyi silip bunu aç:
+[Download the slides (PDF)](/assets/slides.pdf)
+-->
 
 ## Sources
 
-1. Source 1 (paper or technical document): link
-2. Source 2: link
-3. Source 3: link
+1. Goodfellow et al., "Generative Adversarial Nets" (2014), a paper: https://arxiv.org/abs/1406.2661
+2. Mirsky and Lee, "The Creation and Detection of Deepfakes: A Survey" (2020), a paper: https://arxiv.org/abs/2004.11138
+3. Rössler et al., "FaceForensics++: Learning to Detect Manipulated Facial Images" (2019), a paper: https://arxiv.org/abs/1901.08971
