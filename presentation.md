@@ -12,9 +12,7 @@ My presentation is about **how deepfakes work**. I chose this topic because it s
 
 My slides will be available here as a PDF one day before my presentation.
 
-<!-- PDF yüklenince yukarıdaki cümleyi silip bunu aç:
-[Download the slides (PDF)](/assets/slides.pdf)
--->
+
 
 ## Sources
 
