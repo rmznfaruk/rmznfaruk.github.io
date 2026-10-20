@@ -1,6 +1,7 @@
 theme: minima
 title: Ramazan Faruk Acıöz
 author: Ramazan Faruk Acıöz
-description: Computer Engineering Student & AI Enthusiast
+description: Computer Engineering Student & AI Enthusiast from Kırşehir
+lang: en
 header_pages:
   - presentation.md
