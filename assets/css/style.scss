@@ -1,0 +1,33 @@
+---
+---
+@import "minima";
+
+.page-content h2 {
+  margin-top: 2.4rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #2a7ae2;
+}
+
+.page-content blockquote {
+  margin: 0 0 2rem 0;
+  padding: 1.2rem 1.5rem;
+  background: #f4f7fb;
+  border-left: 5px solid #2a7ae2;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.page-content table {
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.page-content table th {
+  background: #f4f7fb;
+}
+
+.page-content ol li,
+.page-content ul li {
+  margin-bottom: 0.4rem;
+}
