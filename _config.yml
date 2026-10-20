@@ -2,3 +2,6 @@ theme: minima
 title: Ramazan's Site
 author: Ramazan Faruk Acıöz
 description: Computer Engineering Student & Tech Enthusiast
+header_pages:
+  - about.md
+  - presentation.md
